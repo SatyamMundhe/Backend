@@ -1,0 +1,1 @@
+Reverse-i-search is a feature of the Linux terminal that allows the user to search for previously entered commands in the terminal's history
