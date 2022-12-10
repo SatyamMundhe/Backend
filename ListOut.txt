@@ -1,0 +1,5 @@
+To list hidden directories using the Linux command line, you can use the 'ls' command with the '-a' option, which stands for "all". This option will show all files and directories, including hidden ones, in the current directory.
+
+ex:
+
+ls -a
